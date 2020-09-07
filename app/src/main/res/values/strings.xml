@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Message Share</string>
+    <string name="activity_1">Activity 1</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="send">Send</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="display">Here is the data received from Activity 1:</string>
+    <string name="final_result">Show Input Data</string>
+</resources>
