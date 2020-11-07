@@ -1,4 +1,3 @@
-# <img src="https://media.giphy.com/media/98uBZTzlXMhkk/giphy.gif" width="100px"> Android-Mobile-Programming <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="100px">
 👷🏻‍♂️ ***Build your first app: Send/Pass data from one activity to another.*** 🛠
 
 ## Project Structure ⚙
