@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Resto Joint</string>
+    <string name="restaurant_name">Name:</string>
+    <string name="restaurant_address">Address:</string>
+    <string name="restaurant_speciality">Speciality:</string>
+    <string name="restaurant_rating">Rating:</string>
+    <string name="info">Information:</string>
+</resources>
